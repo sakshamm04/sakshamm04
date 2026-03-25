@@ -33,7 +33,7 @@ Status     →  Open to Internships & Collaborations
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python, r ,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python, R ,sql&theme=dark" />
 </p>
 
 **Tools & Environment**
