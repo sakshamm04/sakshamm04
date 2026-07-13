@@ -44,8 +44,3 @@ Status     →  Open to Internships & Collaborations
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamm04&layout=donut&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" width="38%" />
-</div>
