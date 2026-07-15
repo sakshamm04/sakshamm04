@@ -59,5 +59,5 @@ I am focused on data analytics, machine learning, and practical AI applications,
 ## GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=sakshamm04&theme=tokyonight&hide_border=true&v=1" alt="GitHub streak statistics" />
+<img height="170" src="https://streak-stats.demolab.com?user=sakshamm04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" />
 </div>
