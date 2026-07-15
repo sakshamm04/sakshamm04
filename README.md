@@ -59,5 +59,6 @@ I am focused on data analytics, machine learning, and practical AI applications,
 ## GitHub Activity
 
 <div align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=sakshamm04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamm04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-contributor-stats.vercel.app/api?username=sakshamm04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Total Contributions" />
 </div>
