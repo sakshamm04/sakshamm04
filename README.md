@@ -55,9 +55,3 @@ I am focused on data analytics, machine learning, and practical AI applications,
 </p>
 
 ---
-
-## GitHub Activity
-
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=sakshamm04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
